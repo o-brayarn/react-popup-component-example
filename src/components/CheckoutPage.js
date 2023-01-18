@@ -8,7 +8,7 @@ const CheckoutPage = ({ handleClose }) => {
           x
         </span>
         <div className="payment-box">
-          <h3>Enter your Phone Number to pay for this event</h3>
+          <h3>You are one step to attending this event</h3>
           <div className="payment-details">
             <div className="ticket-details">
               <label className="form-label">Ticket Amount</label>
